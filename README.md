@@ -27,6 +27,8 @@ The [data](https://divvy-tripdata.s3.amazonaws.com/index.html) was provided by M
 
 ## Findings
 1. Casual riders were more active on saturdays and sundays than any other day.
+![Casual rider preference wrt day of the week](https://user-images.githubusercontent.com/118135226/201784677-1363dc79-b579-4253-9ad2-b52fb7beadc4.png)
 
-3. 
+2. Since electric and classic bikes were introduced in Sept 2020 and Dec 2020 respectively, interest in these bikes grew significantly amongst casual riders
+
 
