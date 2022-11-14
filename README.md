@@ -27,8 +27,18 @@ The [data](https://divvy-tripdata.s3.amazonaws.com/index.html) was provided by M
 
 ## Findings
 1. Casual riders were more active on saturdays and sundays than any other day.
+
 ![Casual rider preference wrt day of the week](https://user-images.githubusercontent.com/118135226/201784677-1363dc79-b579-4253-9ad2-b52fb7beadc4.png)
 
-2. Since electric and classic bikes were introduced in Sept 2020 and Dec 2020 respectively, interest in these bikes grew significantly amongst casual riders
+2. Since electric and classic bikes were introduced in Sept 2020 and Dec 2020 respectively, interest in these bikes grew significantly amongst casual riders. The same can be said for members too.
 
+![bike preference for casual riders](https://user-images.githubusercontent.com/118135226/201785235-150cc6d4-06af-44de-b4ee-c15c9216b336.png)
 
+3. Casual riders used certian bike stations the most; Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millenium Park, Theater on the Lake, and Michigan Ave & Oak St.
+
+4. On average, Casual riders rode approximately 3x longer than members, even though there were more member rides than casual rides in total.
+
+## Recommendations
+1. I suggest the company roll out a weekend plan as part of their offering, since the majority of casual rides are on saturdays and sundays.
+2. The company should add more electric and classic bikes to the program to further entice casual riders and retain their members.
+3. The best places to deploy marketing strategy (e.g advertising) would be the top 5 stations casual riders frequenct - Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millenium Park, Theater on the Lake and Michigan Ave & Oak St.
