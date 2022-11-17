@@ -39,6 +39,6 @@ The [data](https://divvy-tripdata.s3.amazonaws.com/index.html) was provided by M
 4. On average, Casual riders rode approximately 3x longer than members, even though there were more member rides than casual rides in total.
 
 ## Recommendations
-1. I suggest the company roll out a weekend plan as part of their offering, since the majority of casual rides are on saturdays and sundays.
+1. I suggest the company roll out a weekend plan as part of their offerings, since the majority of casual rides are on saturdays and sundays.
 2. The company should add more electric and classic bikes to the program to further entice casual riders and retain their members.
-3. The best places to deploy marketing strategy (e.g advertising) would be the top 5 stations casual riders frequenct - Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millenium Park, Theater on the Lake and Michigan Ave & Oak St.
+3. The best places to deploy marketing strategy (e.g advertising the weeked plan suggested) would be the top 5 stations casual riders frequenct - Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millenium Park, Theater on the Lake and Michigan Ave & Oak St.
